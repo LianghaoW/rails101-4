@@ -1,2 +1,0 @@
-module Acounts::GroupsHelper
-end

@@ -18,6 +18,8 @@ class PostsController < ApplicationController
     else
       render :new
     end
+
+
   end
 
 
